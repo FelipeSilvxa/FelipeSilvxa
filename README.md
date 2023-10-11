@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/felipesilvxa/felipesilvxa/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Olá meu nome é Felipe Kauã e Eu ❤️ sou aluno da UFERSA (Universidade Federal Rural do Semi-Árido). <br><br> , sou apaixonado por <strong>descobrir coisas novas</strong> e estuda-las para obter conhecimento de alta qualidade. Ainda, sou apenas um <strong>Estudante comum de nivel superior</strong> Focado em aprender varias linguagens da programação.</p>&nbsp;
+<p align="center">Olá meu nome é Felipe Kauã 👋 aluno da UFERSA (Universidade Federal Rural do Semi-Árido). <br><br> , sou apaixonado por <strong>descobrir coisas novas</strong> e estuda-las para obter conhecimento de alta qualidade. Ainda, sou apenas um <strong>Estudante comum de nivel superior</strong> Focado em aprender varias linguagens da programação.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=felipesilvxa&theme=radical&mode=weekly" />
